@@ -1,7 +1,3 @@
-public class Hello
-
-work dir
-
-word dir again
-
-last last
+public class Hello{
+	private Integer age;
+}
